@@ -1,5 +1,3 @@
-*This project has been created as part of the 42 curriculum by sofernan, vdiez-cu and alejaro2.*
-
 # ft_irc
 
 ## 📝 Description 
